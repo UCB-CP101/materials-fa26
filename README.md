@@ -18,4 +18,3 @@ UC Berkeley CP101 Materials Fall 2026
 | Name | Launch |
 |---|---|
 | Coming soon | — |
-
