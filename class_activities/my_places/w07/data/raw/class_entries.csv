@@ -1,0 +1,352 @@
+student,name,address,category,lat,lon,rating
+3,Campus Burgers,"2506 Channing Way, Berkeley, CA 94720",food,37.866838,-122.258394,just okay
+3,Main (Gardner) Stacks,"University of California, Berkeley, South Hall Rd, Berkeley, CA 94704",reading,37.872688,-122.258912,love it
+3,Melt Me Creamery,"1918 Martin Luther King Jr Way, Berkeley, CA 94704",dessert,37.872662,-122.2733,love it
+3,Purple Kow,"2508 Channing Way, Berkeley, CA 94704",dessert,37.866784,-122.258299,like it
+3,Rose Pizzeria,"1960 University Ave, Berkeley, CA 94704",food,37.871538,-122.271439,love it
+4,Cheeseboard,"1512 Shattuck Ave, Berkeley, CA 94709",food,37.87986,-122.269469,love it
+4,Grizzly Peak Vista Point,"1 Centennial Dr, Berkeley, CA 94720",reading,37.879492,-122.246969,love it
+4,Noor,"1398 University Ave, Berkeley, CA 94702",food,37.869929,-122.284414,love it
+4,Tacubaya,"1782 Fourth St, Berkeley, CA 94710",food,37.87015,-122.301275,love it
+4,Zacharys,"1853 Solano Ave, Berkeley, CA 94707",food,37.891557,-122.278585,like it
+5,GARA,"2424 Telegraph Ave, Berkeley, CA 94704",food,37.866494,-122.258864,like it
+5,Moffitt Library,"350 Moffitt Library, Berkeley, CA 94720",reading,37.873349,-122.259842,love it
+5,Recreational Sports Facility,"2301 Bancroft Way, Berkeley, CA 94720",sport,37.868605,-122.260816,like it
+5,Top Dog,"2534 Durant Ave, Berkeley, CA 94704",food,37.867774,-122.257426,love it
+5,UC Berkeley Student Union: Eshleman Hall,"2465 Bancroft Way, Berkeley, CA 94704",reading,37.868703,-122.260694,love it
+6,California Football Stadium,"2227 Piedmont Ave, Berkeley, CA 94720",sport,37.871029,-122.252873,love it
+6,Jean Gray Hargrove Music Library,"Optometry Ln, Berkeley, CA 94720",reading,37.87043,-122.256133,like it
+6,La Note,"2377 Shattuck Ave, Berkeley, CA 94704",food,37.866205,-122.267817,love it
+6,Pegasus Books,"2349 Shattuck Ave., Berkeley, CA 94704",bookstore,37.866826,-122.267882,like it
+6,Willard Park,"2730 Hillegass Ave, Berkeley, CA 94705",relaxing,37.861053,-122.256076,love it
+7,Edwards Stadium,"2223 Fulton St, Berkeley, CA 94704",sport,37.868441,-122.266277,like it
+7,Free Speech Movement Cafe,"3 Moffitt Library, Berkeley, CA 94720",food,37.872421,-122.261014,love it
+7,Poke Bar,"2433 Durant Ave E, Berkeley, CA 94704",food,37.86805,-122.259838,like it
+7,Space Sciences Laboratory at University of California,"7 Gauss Way, Berkeley, CA 94720",relaxing,37.880597,-122.24462,love it
+8,Berkeley Bowl,2020 Oregon St Berkeley CA 94703,food,37.856956,-122.267251,like it
+8,Berkeley Public Library - Central,2090 Kittredge St Berkeley CA 94704,reading,37.867951,-122.268897,like it
+8,Berkeley Rose Garden,1200 Euclid Ave Berkeley CA 94708,relaxing,37.885936,-122.26287,love it
+8,Crossroads,2415 Bowditch St Berkeley CA 94720,food,37.866986,-122.256617,just okay
+9,The Campanile,"Sather Tower, Berkeley, CA 94720",relaxing,37.87206,-122.257832,love it
+10,Baker & Commons,"2900 College Ave, Berkeley, CA 94705",food,37.858346,-122.253335,like it
+10,Berkeley Rose Garden,"1200 Euclid Ave, Berkeley, CA 94708",relaxing,37.885936,-122.26287,love it
+10,Montecristo Taqueria,"1446 University Ave, Berkeley, CA 94702",food,37.869959,-122.283216,love it
+11,Haas Pavilion,115 Haas Pavilion Berkeley CA 94720,sport,37.86939,-122.262206,love it
+11,The Campanile,Sather Tower Berkeley CA 94720,relaxing,37.87206,-122.257832,love it
+11,Yogurt Park,2433 Durant Ave A Berkeley CA 94704,food,37.868026,-122.259875,love it
+14,California Memorial Stadium,"2227 Piedmont Ave, Berkeley, CA 94720",sport,37.871029,-122.252873,love it
+14,Downtown Berkeley BART,"2160 Shattuck Ave., Berkeley, CA 94704",relaxing,37.870101,-122.268138,love it
+14,Jean Gray Hargrove Music Library,"Optometry Ln, Berkeley, CA 94720",reading,37.87043,-122.256133,love it
+14,Mezzo,"2442 Telegraph Ave, Berkeley, CA 94704",food,37.866179,-122.258788,love it
+14,elaichi co.,"2161 Allston Way Ste C, Berkeley, CA 94704",food,37.869698,-122.266555,love it
+15,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,like it
+15,Greek Theatre,"Hearst Greek Theatre, 2001 Gayley Rd, Berkeley, CA 94720",relaxing,37.873675,-122.254241,love it
+15,Memorial Glade,"University Dr, Berkeley, CA 94708",relaxing,37.87316,-122.259389,love it
+15,The Campanile,"Sather Tower, Berkeley, CA 94720",relaxing,37.87206,-122.257832,like it
+15,Yogurt Park,"2433 Durant Ave A, Berkeley, CA 94704",food,37.868026,-122.259875,just okay
+16,Crossroads,"2415 Bowditch St, Berkeley, CA 94720",food,37.866986,-122.256617,like it
+16,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,love it
+16,Memorial Glade,"University Dr, Berkeley, CA 94708",sport,37.87316,-122.259389,like it
+16,Moffitt Library,"350 Moffitt Library, Berkeley, CA 94720",reading,37.873349,-122.259842,just okay
+16,The Campanile,"Sather Tower, Berkeley, CA 94720",relaxing,37.87206,-122.257832,love it
+17,Golden Bear Tennis Courts,"25 Sports Ln, Berkeley, CA 94720",sport,37.865831,-122.247667,like it
+17,Haas School of Business,"2220 Piedmont Ave, Berkeley, CA 94720",reading,37.871074,-122.252875,like it
+17,Menchies Frozen Yogurt,"1862 Euclid Ave, Berkeley, CA 94709",dessert,37.87537,-122.260346,love it
+17,Mezzo,"2442 Telegraph Ave, Berkeley, CA 94704",food,37.866179,-122.258788,love it
+17,Willard Park,"2730 Hillegass Ave, Berkeley, CA 94705",relaxing,37.861053,-122.256076,love it
+18,BAMPFA,"2155 Center St, Berkeley, CA 94720",relaxing,37.870946,-122.266399,love it
+18,Cheese Board Pizza,"1512 Shattuck Ave, Berkeley, CA 94709",food,37.87986,-122.269469,love it
+18,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,love it
+18,Indian Rock Park,"950 Indian Rock Ave, Berkeley, CA 94707",sport,37.891692,-122.272465,love it
+19,Big C,"Berkeley, CA 94720",relaxing,37.874579,-122.249617,love it
+19,Cesar E. Chavez Park,"11 Spinnaker Way, Berkeley, CA 94710",relaxing,37.869868,-122.319247,love it
+19,Cheese Board Collective Pizzeria,"1512 Shattuck Ave., Berkeley, CA 94709",food,37.87986,-122.269469,like it
+19,Tsuruya,"1926 Shattuck Ave., Berkeley, CA 94704",food,37.873295,-122.268917,like it
+19,edmonds cafe,"2299 Piedmont Ave, Berkeley, CA 94720",reading,37.869682,-122.251699,love it
+20,Brown's Cafe,"2255 Hearst Ave, Berkeley, CA 94709",food,37.874541,-122.265195,like it
+20,Doe Memorial Library,"Doe Library, University Dr, Berkeley, CA 94720",reading,37.872192,-122.259498,like it
+20,Memorial Glade,"University Dr, Berkeley, CA 94708",relaxing,37.87316,-122.259389,love it
+20,Ong & Ong Plaza,"Berkeley, CA 94702",relaxing,37.870471,-122.255091,like it
+20,The Campanile,"Sather Tower, Berkeley, CA 94720",relaxing,37.87206,-122.257832,love it
+22,Boba Ninja,"2519 Durant Ave,Berkeley,CA 94704",dessert,37.868215,-122.257985,just okay
+22,Doe Library,"Doe Library,Campanile Way,Berkeley,CA,94720",reading,37.872192,-122.259498,love it
+22,Moffitt Library,"350 Moffitt Library,Berkeley,CA 94720",reading,37.873349,-122.259842,love it
+22,Qahwa Time,"2440 Shattuck Ave,Berkeley,CA 94704",food,37.864775,-122.267302,love it
+22,Sweetheart Cafe,"2523 Durant Ave,Berkeley,CA,94704",food,37.86808,-122.257923,like it
+23,berkeley playhouse,"2640 college avenue, berkeley, ca, 94704",relaxing,37.862268,-122.253986,just okay
+23,ox9,"2404 telegraph avenue, berkeley, ca, 94704",food,37.866566,-122.259027,love it
+24,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,just okay
+24,My-O-My (Euclid Ave),"1866 Euclid Ave, Berkeley, CA 94709",food,37.875306,-122.260333,love it
+24,Willard Park,"2730 Hillegass Ave, Berkeley, CA 94705",relaxing,37.861053,-122.256076,like it
+24,Witter Rugby Field,"210 Stadium Rim Way, Berkeley, CA 94720",sport,37.871197,-122.248631,love it
+24,Yogurt Park,"2433 Durant Ave A, Berkeley, CA 94704",dessert,37.868026,-122.259875,love it
+28,Berkeley Rose Garden,"1200 Euclid Ave, Berkeley, CA 94708",relaxing,37.885936,-122.26287,love it
+28,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,just okay
+28,Mezzo,"2442 Telegraph Ave, Berkeley, CA 94704",food,37.866179,-122.258788,love it
+28,Out of the Closet,"1600 University Ave, Berkeley, CA 94703",bookstore,37.870467,-122.279557,like it
+28,Yogurt Park,"2433 Durant Ave A, Berkeley, CA 94704",dessert,37.868026,-122.259875,just okay
+29,BAMPFA,"2155 Center St, Berkeley, CA 94720",relaxing,37.870946,-122.266399,like it
+29,Butterfish Sushi,"915 University Ave, Berkeley, CA 94710",food,37.86847,-122.296322,love it
+29,Jean Gray Hargrove Music Library,"Optometry Ln, Berkeley, CA 94720",reading,37.87043,-122.256133,like it
+29,Mezzo,"2442 Telegraph Ave, Berkeley, CA 94704",food,37.866179,-122.258788,like it
+29,Yifang Taiwan Fruit Tea,"2516 Bancroft Way, Berkeley, CA 94704",food,37.868627,-122.258599,love it
+30,ChaHalo,"2041 University Ave, Berkeley, CA 94704",food,37.872159,-122.269641,love it
+30,Greek Theatre,"2001 Gayley Rd, Berkeley, CA 94720",relaxing,37.873675,-122.254241,like it
+30,Moffitt Library,"350 Moffitt Library, Berkeley, CA 94720",reading,37.873349,-122.259842,like it
+30,heytea (Berkeley),"2125 Shattuck Ave., Berkeley, CA 94704",food,37.870068,-122.267725,love it
+31,Recreational Sports Facility,"2301 Bancroft Way, Berkeley, CA 94720",sport,37.868605,-122.260816,like it
+31,Skates On The Bay,"100 Seawall Dr, Berkeley, CA 94710",food,37.863706,-122.318015,love it
+32,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,like it
+32,Kiraku,"2566B Telegraph Ave, Berkeley, CA 94704",food,37.863734,-122.258857,like it
+32,Recreational Sports Facility,"2301 Bancroft Way, Berkeley, CA 94720",sport,37.868605,-122.260816,like it
+32,Willard Park,"2730 Hillegass Ave, Berkeley, CA 94705",relaxing,37.861053,-122.256076,love it
+32,Yogurt Park,"2433 Durant Ave A, Berkeley, CA 94704",dessert,37.868026,-122.259875,like it
+33,Artichoke Basille's Pizza,"2590 Durant Ave, Berkeley, CA 94704",food,37.867999,-122.257046,like it
+33,Channing Courts,"2309 Haste St, Berkeley, CA 94704",sport,37.865687,-122.262827,love it
+33,"Chemistry, Astronomy & Physics Library","100 Hildebrand Hall, Berkeley, CA 94720",reading,37.872499,-122.255768,love it
+33,Eureka!,"2068 Center St, Berkeley, CA 94704",food,37.869968,-122.269049,like it
+33,Jean Gray Hargrove Music Library,"Optometry Ln, Berkeley, CA 94720",reading,37.87043,-122.256133,love it
+33,Jupiter,"2181 Shattuck Ave., Berkeley, CA 94704",food,37.869836,-122.2676,like it
+33,Little Gem Belgian Waffles,"2468 Telegraph Ave Ste A, Berkeley, CA 94704",dessert,37.865616,-122.258693,love it
+33,Long Business Library,"2220 Piedmont Ave, Berkeley, CA 94720",reading,37.870463,-122.252344,just okay
+33,Moe's Books,"2476 Telegraph Ave, Berkeley, CA 94704",bookstore,37.865484,-122.258814,like it
+33,Mosaic Boulders,"2369 Telegraph Ave, Berkeley, CA 94704",sport,37.867446,-122.25877,like it
+33,Pegasus Books,"2349 Shattuck Ave., Berkeley, CA 94704",bookstore,37.866826,-122.267882,just okay
+33,Rose Pizzeria,"1960 University Ave, Berkeley, CA 94704",food,37.871538,-122.271439,love it
+33,Top Dog,"2534 Durant Ave, Berkeley, CA 94704",food,37.867774,-122.257426,just okay
+33,Yogurt Park,"2433 Durant Ave A, Berkeley, CA 94704",dessert,37.868026,-122.259875,just okay
+36,Caffe Strada,"2300 College Ave, Berkeley, CA 94704",food,37.869111,-122.254864,like it
+36,Cheese Board Pizza,"1512 Shattuck Ave, Berkeley, CA 94709",food,37.87986,-122.269469,love it
+36,Main (Gardner) Stacks,"Doe Library, Berkeley, CA 94720",reading,37.872688,-122.258912,love it
+36,Memorial Glade,"Memorial Glade, Berkeley, CA 94720",reading,37.87316,-122.259389,love it
+36,Moffitt Library,"Moffitt Library, Berkeley, CA 94720",reading,37.873349,-122.259842,just okay
+36,The Station Burger,"2984 Russell St, Berkeley, CA 94705",food,37.858911,-122.245163,like it
+37,Doe Memorial Library,"Doe Library, University Dr, Berkeley, CA 94720",reading,37.872192,-122.259498,just okay
+37,Gateway Cafe,"2300 Hearst Ave Rm 1310, Berkeley, CA 94703",food,37.87414,-122.263587,love it
+37,Greek Theatre,"Hearst Greek Theatre, 2001 Gayley Rd, Berkeley, CA 94720",relaxing,37.873675,-122.254241,just okay
+37,Poke Parlor,"2485 Telegraph Ave, Berkeley, CA 94704",food,37.865522,-122.258393,love it
+37,Yogurt Park,"2433 Durant Ave A, Berkeley, CA 94704",food,37.868026,-122.259875,just okay
+38,Baker & Commons,"2900 College Ave, Berkeley, CA 94705",food,37.858346,-122.253335,love it
+38,Berkeley Rose Garden,"VPPP+9W6, 1200 Euclid Ave, Berkeley, CA 94708",relaxing,37.885936,-122.26287,love it
+38,C.V. Starr East Asian Library,"C. V. Starr East Asian Library, Berkeley, CA 94720",reading,37.873534,-122.260341,like it
+38,Cheeseboard Collective,"1512 Shattuck Ave., Berkeley, CA 94709",food,37.87986,-122.269469,love it
+38,Imm Thai Street Food,"2068 University Ave, Berkeley, CA 94704",food,37.871648,-122.269057,love it
+40,Cheese Board Pizza,"1512 Shattuck Ave, Berkeley, CA 94709",food,37.87986,-122.269469,love it
+40,Doe Memorial Library,"Doe Library, University Dr, Berkeley, CA 94720",reading,37.872192,-122.259498,love it
+40,Yogurt Park,"2433 Durant Ave, Berkeley, CA 94704",dessert,37.868026,-122.259875,like it
+41,Morrison Library,"Morrison Library, 101 Library Ct, Berkeley",reading,37.872459,-122.259782,like it
+41,Recreational Sports Facility,"Recreational Sports Facility, 2301 Bancroft Way, Berkeley, CA 94720",sport,37.868605,-122.260816,just okay
+41,The Campanile,"Sather Tower, Berkeley, CA 94720",relaxing,37.87206,-122.257832,love it
+41,The Gateway,"The Gateway, 2300 Hearst Ave, Berkeley, CA 94703",relaxing,37.874611,-122.262889,love it
+41,Top Dog,"Top Dog, 2534 Durant Ave, Berkeley, CA 94704",food,37.867774,-122.257426,like it
+42,8 Grams Matcha,"2440 Bancroft Way, Berkeley, CA 94704",dessert,37.868448,-122.260384,love it
+42,California Memorial Stadium,"2227 Piedmont Ave, Berkeley, CA 94720",sport,37.871029,-122.252873,like it
+42,Cheese Board Collective Pizzeria,"1512 Shattuck Ave., Berkeley, CA 94709",food,37.87986,-122.269469,love it
+42,Moffitt Library,"350 Moffitt Library, Berkeley, CA 94720",reading,37.873349,-122.259842,like it
+42,Shake Shack Berkeley,"1950 Oxford St Ste F, Berkeley, CA 94704",food,37.872534,-122.266754,love it
+43,8 Grams Matcha,"2440 Bancroft Way, Berkeley, CA 94704",food,37.868448,-122.260384,love it
+43,Memorial Glade,"University Dr, Berkeley, CA 94708",relaxing,37.87316,-122.259389,like it
+43,The Bancroft Library,"University of California, Berkeley, The Bancroft Library, Berkeley, CA 94704",reading,37.872276,-122.258877,like it
+43,Top Dog,"2534 Durant Ave, Berkeley, CA 94704",food,37.867774,-122.257426,love it
+43,Yogurt Park,"2433 Durant Ave A, Berkeley, CA 94704",food,37.868026,-122.259875,love it
+45,Berkeley Bowl,"2020 Oregon St, Berkeley, CA 94703",relaxing,37.856956,-122.267251,love it
+45,Forest Tea Bar,"2628 Shattuck Ave., Berkeley, CA 94704",food,37.861471,-122.266921,love it
+45,MY Coffee Roastery,"2080 Martin Luther King Jr Way, Berkeley, CA 94704",food,37.87069,-122.273167,love it
+45,Memorial Glade,"University Dr, Berkeley, CA 94708",reading,37.87316,-122.259389,love it
+48,C.V. Starr East Asian Library,"C. V. Starr East Asian Library, Berkeley, CA 94720",reading,37.873534,-122.260341,love it
+48,Café 3,"2400 Durant Ave, Berkeley, CA 94704",food,37.86715,-122.260369,just okay
+48,Hui Lau Shan,"2282 Fulton St, Berkeley, CA 94704",dessert,37.868195,-122.266233,love it
+48,Recreational Sports Facility,"2301 Bancroft Way, Berkeley, CA 94720",sport,37.868605,-122.260816,like it
+48,The Campanile,"Sather Tower, Berkeley, CA 94720",relaxing,37.87206,-122.257832,like it
+52,8 Grams Matcha,"2440 Bancroft Way, Berkeley, CA 94704",dessert,37.868448,-122.260384,love it
+52,Kimchi Garden,"2517 Durant Ave Ste b, Berkeley, CA 94704",food,37.868084,-122.258211,just okay
+52,Moffitt Library,"350 Moffitt Library, Berkeley, CA 94720",reading,37.873349,-122.259842,love it
+52,Qahwa Time,"2440 Shattuck Ave., Berkeley, CA 94704",reading,37.864775,-122.267302,love it
+52,Top Dog,"2534 Durant Ave, Berkeley, CA 94704",food,37.867774,-122.257426,love it
+54,Hildebrand Hall,"Berkeley, CA 94720",reading,37.872667,-122.255748,just okay
+54,Little Gem Belgian Waffles,"2468 Telegraph Ave Ste A, Berkeley, CA 94704",dessert,37.865616,-122.258693,love it
+54,Philosophy Hall,"Philosophy Hall, Berkeley, CA 94720",reading,37.870956,-122.25819,love it
+54,Sleepy Cat Books,"2509 Telegraph Ave, Berkeley, CA 94704",bookstore,37.864863,-122.25827,like it
+54,Xpression,"1870 Euclid Ave, Berkeley, CA 94709",food,37.875246,-122.260321,love it
+56,California Memorial Stadium,"2227 Piedmont Ave, Berkeley, CA 94720",sport,37.871029,-122.252873,love it
+56,Environmental Design Library,"University of California, Berkeley, Wurster Hall, 210 Bauer, Berkeley, CA 94720",reading,37.870802,-122.254582,like it
+56,The Campanile,"Sather Tower, Berkeley, CA 94720",relaxing,37.87206,-122.257832,love it
+56,Whole Foods Market,"3000 Telegraph Ave, Berkeley, CA 94705",food,37.855508,-122.260471,love it
+57,Caffe Strada,"2300 College Ave, Berkeley CA, 94704",food,37.869111,-122.254864,like it
+57,Environmental Design Library,"University of California, Berkeley Wurster Hall, 210 Bauer, Berkeley, CA 94720",reading,37.870802,-122.254582,like it
+57,The Campanile,"South Hall Rd, Berkeley, CA 94704",relaxing,37.87206,-122.257832,like it
+57,Willard Park,"2730 Hillegass Ave, Berkeley, CA 94705",relaxing,37.861053,-122.256076,love it
+58,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,love it
+58,Foothill Dining,"2700 Hearst Ave, Berkeley, CA 94720",food,37.875524,-122.25551,just okay
+58,Sather Gate,"Sather Rd, Berkeley, CA 94720",relaxing,37.87024,-122.259509,love it
+58,The Campanile,"Sather Tower, Berkeley, CA 94720",relaxing,37.87206,-122.257832,love it
+58,University of California Museum of Paleontology,"Campanile Way, Berkeley, CA 94720",relaxing,37.871474,-122.262516,love it
+59,Boba Ninja,"2519 Durant Ave, Berkeley, CA 94704",food,37.868215,-122.257985,like it
+59,Caffe Strada,"2300 College Ave, Berkeley, CA 94704",food,37.869111,-122.254864,like it
+59,McDonalds,"1998 Shattuck Ave, Berkeley, CA 94704",food,37.872303,-122.268629,like it
+59,Moffitt Library,"350 Moffitt Library, Berkeley, CA 94720",reading,37.873349,-122.259842,like it
+59,Qahwa Time,"2440 Shattuck Ave., Berkeley, CA 94704",food,37.864775,-122.267302,like it
+61,Binge Coffee House,"2528A Durant Ave, Berkeley, CA 94704",dessert,37.86802,-122.257725,love it
+61,California Memorial Stadium,"2227 Piedmont Ave, Berkeley, CA 94720",sport,37.871029,-122.252873,like it
+61,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,like it
+61,Mezzo,"2442 Telegraph Ave, Berkeley, CA 94704",food,37.866179,-122.258788,love it
+61,Moe's Books,"2476 Telegraph Ave, Berkeley, CA 94704",bookstore,37.865484,-122.258814,like it
+62,1951 Coffee Company,"2410 Channing Way, Berkeley, CA 94704",food,37.866593,-122.260007,like it
+62,Artichoke Basille's Pizza,"2590 Durant Ave, Berkeley, CA 94704",food,37.867999,-122.257046,love it
+62,Bageltopia,"1401 University Ave, Berkeley, CA 94702",food,37.870364,-122.284081,just okay
+62,Environmental Design Library,"University of California, Berkeley, Wurster Hall, 210 Bauer, Berkeley, CA 94720",reading,37.870802,-122.254582,like it
+62,My-O-My (Telegraph Ave),"2431 Telegraph Ave, Berkeley, CA 94720",food,37.866327,-122.258536,love it
+65,Doe Library,Campanile Way Berkeley CA 94720,reading,37.872192,-122.259498,love it
+65,Dwinelle Hall,South Dr Berkeley CA 94720,reading,37.870728,-122.260743,love it
+65,Gypsy's Trattoria Italiana,2519 Durant Ave Berkeley CA 94704,food,37.868215,-122.257985,love it
+65,Memorial Glade,University Dr Berkeley CA 94708,relaxing,37.87316,-122.259389,love it
+65,The Campanile,Sather Tower Berkeley CA 94720,relaxing,37.87206,-122.257832,love it
+66,Binge Coffee House,"2528A Durant Ave, Berkeley, CA 94704",dessert,37.86802,-122.257725,love it
+66,Games of Berkeley,"2510 Durant Ave, Berkeley, CA 94704",gaming,37.867644,-122.258408,like it
+66,Moe's Books,"2476 Telegraph Ave, Berkeley, CA 94704",bookstore,37.865484,-122.258814,love it
+66,Moffitt Library,"350 Moffitt Library, Berkeley, CA 94720",reading,37.873349,-122.259842,like it
+66,Shake Shack Berkeley,"1950 Oxford St Ste F, Berkeley, CA 94704",food,37.872534,-122.266754,love it
+67,Berkeley Public Library - Central,"2090 Kittredge St, Berkeley, CA 94704",reading,37.867951,-122.268897,like it
+67,Binge Coffee House,"2199 Bancroft Way, Berkeley, CA 94720",food,37.86802,-122.257725,love it
+67,Little Plearn Thai Kitchen,"2283 Shattuck Ave., Berkeley, CA 94704",food,37.86789,-122.268018,love it
+67,Qargo Coffee,"2344 Telegraph Ave, Berkeley, CA 94704",dessert,37.867922,-122.259147,just okay
+67,Sightglass Coffee,"2169 University Ave, Berkeley, CA 94704",food,37.872585,-122.266337,just okay
+68,Mezzos,"2442 Telegraph Ave, Berkeley, CA 94704",food,37.866179,-122.258788,just okay
+68,Moe's Books,"2476 Telegraph Ave, Berkeley, CA 94704",bookstore,37.865484,-122.258814,love it
+68,Morrison Library,"101 Library Ct, Berkeley, CA 94720",reading,37.872459,-122.259782,love it
+68,Yume Mori Matcha,"2319 Shattuck Ave., Berkeley, CA 94704",food,37.867308,-122.267278,love it
+69,C.V. Starr East Asian Library,"C. V. Starr East Asian Library, Berkeley, CA 94720",reading,37.873534,-122.260341,love it
+69,Caffe Strada,"2300 College Ave, Berkeley, CA 94704",food,37.869111,-122.254864,love it
+69,Headlands Brewing,"2465 Bancroft Way Ste 140, Berkeley, CA 94704",food,37.868703,-122.260694,love it
+69,Memorial Glade,"University Dr, Berkeley, CA 94708",relaxing,37.87316,-122.259389,love it
+69,Super Duper Burgers,"2355 Telegraph Ave, Berkeley, CA 94704",food,37.867686,-122.25882,love it
+70,Binge Coffee House,"2528A Durant Ave, Berkeley, CA 94704",food,37.86802,-122.257725,love it
+70,Caravaggio Gelato Lab,"1797 Shattuck Ave., Berkeley, CA 94709",dessert,37.875173,-122.268436,love it
+70,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,love it
+70,Great China,"2190 Bancroft Way, Berkeley, CA 94704",food,37.867738,-122.267462,love it
+70,Pegasus Books,"2349 Shattuck Ave., Berkeley, CA 94704",bookstore,37.866826,-122.267882,like it
+71,Doe Library,"Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,like it
+71,Evans Hall,"University Dr, Berkeley, CA 94720",reading,37.873621,-122.257681,like it
+71,Greek Theatre,"Hearst Greek Theatre, 2001 Gayley Rd, Berkeley, CA 94720",reading,37.873675,-122.254241,love it
+71,The Campanile,"Sather Tower, Berkeley, CA 94720",relaxing,37.87206,-122.257832,love it
+72,Caffe Strada,"2300 College Ave, Berkeley, CA 94704",relaxing,37.869111,-122.254864,like it
+72,Doe Library,"Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,like it
+72,Games of Berkeley,"2510 Durant Ave, Berkeley, CA 94704",gaming,37.867644,-122.258408,love it
+72,Recreational Sports Facility,"2301 Bancroft Way, Berkeley, CA 94720",sport,37.868605,-122.260816,like it
+72,Top Dog,"2534 Durant Ave, Berkeley, CA 94704",food,37.867774,-122.257426,like it
+73,Blondies,"2340 Telegraph Ave, Berkeley, CA 94720",food,37.868019,-122.259166,love it
+73,Doe Memorial Library,"Doe Library, University Dr, Berkeley, CA 94720",reading,37.872192,-122.259498,love it
+73,Free Speech Movement Cafe,"3 Moffitt Library, Berkeley, CA 94720",food,37.872421,-122.261014,just okay
+73,Games of Berkeley,"2510 Durant Ave, Berkeley, CA 94704",gaming,37.867644,-122.258408,love it
+73,Kresge Engineering Library,"University Dr, Berkeley, CA 94720",reading,37.873995,-122.258186,just okay
+74,BAMPFA,"2155 Center St, Berkeley, CA 94720",relaxing,37.870946,-122.266399,like it
+74,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,love it
+74,Ippuku,"2130 Center St, Berkeley, CA 94704",food,37.87015,-122.267053,love it
+74,Shake Shack Berkeley,"1950 Oxford St Ste F, Berkeley, CA 94704",food,37.872534,-122.266754,just okay
+74,Yogurt Park,"2433 Durant Ave A, Berkeley, CA 94704",dessert,37.868026,-122.259875,love it
+75,Calirfornia Memorial Stadium,"2227 Piedmont Ave, Berkeley, CA 94720",sport,37.871029,-122.252873,love it
+75,Crossroads,"2415 Bowditch St, Berkeley, CA 94720",food,37.866986,-122.256617,just okay
+75,Memorial Galde,"University Dr, Berkeley, CA 94708",relaxing,37.87316,-122.259389,love it
+75,Moffitt Library,"350 Moffitt Library, Berkeley, CA 94720",reading,37.873349,-122.259842,love it
+75,U:Dessert Story,"1849 Shattuck Ave., Berkeley, CA 94709",dessert,37.874131,-122.268387,love it
+78,CREAM,"2399 Telegraph Ave, Berkeley, CA 94704",dessert,37.867044,-122.258676,just okay
+78,Chengdu Style Restaurant,"2600 Bancroft Way, Berkeley, CA 94704",food,37.868766,-122.256594,love it
+78,Doe Memorial Library,"Doe Library, University Dr, Berkeley, CA 94720",reading,37.872192,-122.259498,love it
+79,Angeline's Louisiana Kitchen,"2261 Shattuck Ave., Berkeley, CA 94704",food,37.868147,-122.268049,love it
+79,Davis Hall,"Davis Hall, Berkeley, CA 94720",reading,37.874523,-122.258279,love it
+79,Kresge Engineering Library,"Kresge Engineering Library, Berkeley, CA 94720",reading,37.873995,-122.258186,love it
+79,Ong & Ong Plaza,"Ong & Ong Plaza, Berkeley, CA 94720",relaxing,37.870471,-122.255091,like it
+79,Trader Joe's,"1885 University Ave, Berkeley, CA 94703",food,37.871376,-122.273457,love it
+81,Esports Center,"Cal Esports Community Center, Berkeley, CA 94720",gaming,37.874809,-122.254757,love it
+81,Gateway Cafe,"Gateway Cafe, Berkeley, CA 94720",food,37.87414,-122.263587,just okay
+81,The Bancroft Library,"Bancroft Library, Berkeley, CA 94720",reading,37.872276,-122.258877,love it
+81,The Campanile,"Sather Tower, Berkeley, CA 94720",relaxing,37.87206,-122.257832,love it
+81,Valley Life Sciences Building,"Valley Life Sciences Building, Berkeley, CA 94720",reading,37.871474,-122.262516,like it
+82,Berkeley Bowl West,"920 Heinz Ave, Berkeley, CA 94710",food,37.853404,-122.290362,love it
+82,C.V. Starr East Asian Library,"C. V. Starr East Asian Library, Berkeley, CA 94720",reading,37.873534,-122.260341,like it
+82,Downtown Berkeley Farmers Market,"1947 Center St, Berkeley, CA 94704",food,37.870168,-122.271259,love it
+82,La Vals,"1834 Euclid Ave, Berkeley, CA 94709",food,37.875482,-122.260551,love it
+82,Willard Park,"2730 Hillegass Ave, Berkeley, CA 94705",relaxing,37.861053,-122.256076,love it
+83,Kimchi Garden,"2517 Durant Ave Ste b, Berkeley, CA 94704",food,37.868084,-122.258211,just okay
+83,Mezzo,"2442 Telegraph Ave, Berkeley, CA 94704",food,37.866179,-122.258788,love it
+83,Moffit Library,"350 Moffitt Library, Berkeley, CA 94720",reading,37.873349,-122.259842,love it
+83,ShareTea,"2328 Telegraph Ave, Berkeley, CA 94704",food,37.86817,-122.25921,like it
+83,Sheng Kee Bakery,"2307 Telegraph Ave, Berkeley, CA 94704",food,37.868533,-122.259044,like it
+86,Café 3,"2400 Durant Ave, Berkeley, CA 94704",food,37.86715,-122.260369,just okay
+86,Grizzly Peak Vista Point,"1 Centennial Dr, Berkeley, CA 94720",relaxing,37.879492,-122.246969,love it
+86,Indian Rock Park,"950 Indian Rock Ave, Berkeley, CA 94707",relaxing,37.891692,-122.272465,love it
+86,Jean Gray Hargrove Music Library,"Optometry Ln, Berkeley, CA 94720",reading,37.87043,-122.256133,like it
+86,Li's Knife Cut Noodles,"2126 Center St, Berkeley, CA 94704",food,37.870287,-122.267196,love it
+87,Memorial Glade,"University Dr, Berkeley, CA 94708",relaxing,37.87316,-122.259389,like it
+87,Moe's Books,"2476 Telegraph Ave, Berkeley, CA 94704",bookstore,37.865484,-122.258814,like it
+87,Moffitt Library,"350 Moffitt Library, Berkeley, CA 94720",reading,37.873349,-122.259842,love it
+87,Trader Joe's,"1885 University Ave, Berkeley, CA 94703",food,37.871376,-122.273457,love it
+87,Yogurt Park,"2433 Durant Ave A, Berkeley, CA 94704",dessert,37.868026,-122.259875,love it
+89,Binge Coffee House,"2528A Durant Ave, Berkeley, CA 94704",dessert,37.86802,-122.257725,love it
+89,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,like it
+89,Durant Food Court,"2523 Durant Ave, Berkeley, CA 94704",food,37.86808,-122.257923,like it
+89,Memorial Glade,"University Dr, Berkeley, CA 94708",relaxing,37.87316,-122.259389,love it
+89,The Campanile,"Sather Tower, Berkeley, CA, 94720",relaxing,37.87206,-122.257832,love it
+90,Asha Tea House,"2086 University Ave, Berkeley, CA 94704",food,37.871932,-122.268829,love it
+90,Bodyrok,"1601 University Ave, Berkeley, CA 94703",sport,37.870855,-122.279674,love it
+90,Fournée Bakery,"2912 Domingo Ave, Berkeley, CA 94705",dessert,37.858779,-122.244109,love it
+90,Hidden Cafe,"1250 Addison St Ste 111, Berkeley, CA 94702",bookstore,37.868315,-122.286792,like it
+90,UC Berkeley Law Library,"2763-2719 Bancroft Way, Berkeley, CA 94704",reading,37.869765,-122.253373,love it
+91,Brown's Cafe,2255 Hearst Ave Berkeley CA 94709,food,37.874541,-122.265195,love it
+91,Hearst Gym Pool,Bancroft Way & Bowditch St Berkeley CA 94704,sport,37.869017,-122.257294,like it
+91,University House,2400 Hearst Ave Berkeley CA 94709,relaxing,37.875235,-122.261435,love it
+91,VLSB grass,Harmon Way Berkeley CA 94720,reading,37.871474,-122.262516,love it
+91,Wurster Hall,230 Bauer Wurster Hall Berkeley CA 94720,reading,37.870582,-122.254901,just okay
+92,C.V. Starr East Asian Library,"C. V. Starr East Asian Library, Berkeley, CA 94720",reading,37.873534,-122.260341,love it
+92,California Memorial Stadium,"2227 Piedmont Ave, Berkeley, CA 94720",sport,37.871029,-122.252873,love it
+92,Evans Hall,"University Dr, Berkeley, CA 94720",reading,37.873621,-122.257681,just okay
+92,Local x Design,"University of California, Berkeley, Wurster Hall, Bauer, Berkeley, CA 94720",food,37.87044,-122.254922,love it
+92,Recreational Sports Facility,"2301 Bancroft Way, Berkeley, CA 94720",sport,37.868605,-122.260816,love it
+92,Sather Gate,"Sather Rd, Berkeley, CA 94720",relaxing,37.87024,-122.259509,love it
+92,Valley Life Sciences Building,"Harmon Way, Berkeley, CA 94720",reading,37.871474,-122.262516,love it
+93,Gara,"2424 Telegraph Ave, Berkeley, CA 94704",food,37.866494,-122.258864,love it
+93,Marian Koshland Bioscience & Natural Resources Library,"University of California, Berkeley, Valley Life Sciences Bldg, 2101, Berkeley, CA 94720",reading,37.871374,-122.262684,love it
+93,Multicultural Community Center,"2495 Bancroft Way, Berkeley, CA 94720",relaxing,37.869239,-122.259704,like it
+93,Recreational Sports Facility,"2301 Bancroft Way, Berkeley, CA 94720",sport,37.868605,-122.260816,just okay
+94,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,just okay
+94,MLK Student Union,"2495 Bancroft Way, Berkeley, CA 94720",relaxing,37.869239,-122.259704,like it
+94,RSF,"2301 Bancroft Way, Berkeley, CA 94720",sport,37.868605,-122.260816,like it
+94,Taco Bell Cantina,"2528 Durant Ave, Berkeley, CA 94704",food,37.867828,-122.257625,love it
+94,Yogurt Park,"2433 Durant Ave A, Berkeley, CA 94704",dessert,37.868026,-122.259875,love it
+95,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,love it
+95,Li's Knife Cut Noodles,"2126 Center St, Berkeley, CA 94704",food,37.870287,-122.267196,love it
+95,Moffitt Library,"350 Moffitt Library, Berkeley, CA 94720",reading,37.873349,-122.259842,love it
+95,TP Tea,"2383 Telegraph Ave, Berkeley, CA 94704",dessert,37.867223,-122.258716,love it
+96,The Campanile,"Sather Tower, Berkeley, CA 94720",relaxing,37.87206,-122.257832,like it
+97,Dwinelle Hall,"South Dr, Berkeley, CA 94720",reading,37.870728,-122.260743,just okay
+97,Imm Thai Street Food,"2068 University Ave, Berkeley, CA 94704",food,37.871648,-122.269057,love it
+97,Noodle Dynasty,"2426 Telegraph Ave, Berkeley, CA 94704",food,37.866389,-122.258921,love it
+98,Berkeley Bowl,"2020 Oregon St, Berkeley, CA 94703",food,37.856956,-122.267251,love it
+98,Environmental Design Library,"University of California, Berkeley, Wurster Hall, 210 Bauer, Berkeley, CA 94720",reading,37.870802,-122.254582,love it
+98,La Burrita,"2530 Durant Ave, Berkeley, CA 94704",food,37.867876,-122.257516,just okay
+98,Sleepy Cat Books,"2509 Telegraph Ave, Berkeley, CA 94704",bookstore,37.864863,-122.25827,love it
+98,Strawberry Creek Park,"1260 Allston Way, Berkeley, CA 94702",relaxing,37.86604,-122.285986,love it
+99,Doe Library,"Doe Library, Campanile Way, Berkeley, CA 94720",reading,37.872192,-122.259498,like it
+99,GARA,"2424 Telegraph Ave, Berkeley, CA 94704",food,37.866494,-122.258864,love it
+99,Indian Rock Park,"950 Indian Rock Ave, Berkeley, CA 94707",relaxing,37.891692,-122.272465,like it
+99,Taco Bell Cantina,"2528 Durant Ave, Berkeley, CA 94704",food,37.867828,-122.257625,love it
+99,Zhangliang Malatang,"2237 Shattuck Ave. #1415, Berkeley, CA 94704",food,37.868661,-122.267589,love it
+100,Ko Stop,"2431 Durant Ave A, Berkeley, CA 94704",food,37.867963,-122.259899,love it
+100,Moffitt Library,"350 Moffitt Library, Berkeley, CA 94720",reading,37.873349,-122.259842,just okay
+100,Mosaic Boulders,"2369 Telegraph Ave, Berkeley, CA 94704",sport,37.867446,-122.25877,love it
+100,My-O-My (Euclid Ave),"1866 Euclid Ave, Berkeley, CA 94709",food,37.875306,-122.260333,love it
+100,Yogurt Park,"2433 Durant Ave A, Berkeley, CA 94704",food,37.868026,-122.259875,love it
+102,Brown's Cafe,"2255 Hearst Ave, Berkeley, CA 94709",food,37.874541,-122.265195,like it
+102,C.V. Starr East Asian Library,"C. V. Starr East Asian Library, Berkeley, CA 94720",reading,37.873534,-122.260341,like it
+102,California Memorial Stadium,"2227 Piedmont Ave, Berkeley, CA 94720",sport,37.871029,-122.252873,love it
+102,Imm Thai Street Food,"2068 University Ave, Berkeley, CA 94704",food,37.871648,-122.269057,love it
+102,Strawberry Canyon Pool,"Centennial Dr, Berkeley, CA 94704",sport,37.872539,-122.246349,love it
+103,ChaHalo,"2041 University Ave, Berkeley, CA 94704",food,37.872159,-122.269641,love it
+103,Chicha San Chen,"2400A Bancroft Way, Berkeley, CA 94704",food,37.868326,-122.261293,love it
+103,Long Business Library,"2220 Piedmont Ave, Berkeley, CA 94720",reading,37.870463,-122.252344,love it
+103,Recreational Sports Facility,"2301 Bancroft Way, Berkeley, CA 94720",sport,37.868605,-122.260816,love it
+104,Extreme Pizza,"2360 Shattuck Ave., Berkeley, CA 94704",food,37.866198,-122.267458,love it
+104,Gypsy's Trattoria Italiana,"2519 Durant Ave, Berkeley, CA 94704",food,37.868215,-122.257985,love it
+104,Pegasus Books,"2349 Shattuck Ave., Berkeley, CA 94704",reading,37.866826,-122.267882,just okay
+104,Punjabi Dhaba,"2521 Durant Ave Unite E, Berkeley, CA 94704",food,37.868297,-122.258058,love it
+104,Sather Gate,"Sather Rd, Berkeley, CA 94720",food,37.87024,-122.259509,like it
