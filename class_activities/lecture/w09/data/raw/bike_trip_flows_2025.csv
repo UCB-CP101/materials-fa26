@@ -1,0 +1,21 @@
+source,target,rider_type,trips
+Casual,Classic bike,Casual,207020
+Casual,E-bike,Casual,730728
+Member,Classic bike,Member,720329
+Member,E-bike,Member,2695409
+Classic bike,10-20 min,Casual,69708
+Classic bike,10-20 min,Member,197777
+Classic bike,20-30 min,Casual,36178
+Classic bike,20-30 min,Member,46621
+Classic bike,30 min or more,Casual,36787
+Classic bike,30 min or more,Member,26923
+Classic bike,Under 10 min,Casual,64347
+Classic bike,Under 10 min,Member,449008
+E-bike,10-20 min,Casual,240546
+E-bike,10-20 min,Member,898404
+E-bike,20-30 min,Casual,91423
+E-bike,20-30 min,Member,171630
+E-bike,30 min or more,Casual,102165
+E-bike,30 min or more,Member,72510
+E-bike,Under 10 min,Casual,296594
+E-bike,Under 10 min,Member,1552865

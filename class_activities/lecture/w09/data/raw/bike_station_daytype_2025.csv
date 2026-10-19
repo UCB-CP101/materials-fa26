@@ -1,0 +1,626 @@
+station_id,station,weekday_avg_trips,weekend_avg_trips,total_trips
+SF-J29,San Francisco Caltrain Station - Townsend St,159.7,59.3,47846
+SF-E29-2,Market St at Steuart St,139.9,61.7,42922
+SF-G27,Powell St BART North,108.9,86.5,37413
+SF-J23-1,Market St at 10th St,104.7,72.7,34902
+SF-P30,22nd St Caltrain Station,94.5,51.1,29975
+SF-J18,Grove St at Divisadero,75.5,91.8,29247
+SF-K19,Page St at Scott St,76.6,86.8,29017
+SF-E29-1,San Francisco Ferry Building,79.9,73.1,28463
+SF-K20,Pierce St at Haight St,74.5,82.0,27976
+SF-N22-2,17th St at Valencia St,73.9,82.7,27877
+SF-L15,Waller St at Shrader St,65.5,100.0,27494
+SF-GGP-03,8th Ave at JFK Dr,52.3,123.2,26453
+SF-A22,North Point St at Polk St,70.3,77.3,26373
+SF-H26,Powell St BART South,76.4,60.5,26240
+SF-M20,Sanchez St at 15th St,70.4,74.9,26166
+SF-K16,Page St at Masonic Ave,65.5,83.6,25779
+SF-F28-3,Sansome St at Sutter St,89.4,16.3,25029
+SF-L21,Market St at Dolores St,67.2,71.5,24983
+SF-G29-1,Salesforce Transit Center,85.6,23.9,24835
+SF-J21,Laguna St at Hayes St,63.4,69.1,23723
+SF-I30,2nd St at Townsend St,74.1,39.3,23428
+SF-O22,Mission Playground,61.2,65.2,22759
+SF-E23,Jackson St at Polk St,61.8,61.6,22530
+SF-O30-2,Illinois St at 20th St,70.9,37.0,22360
+SF-J24,8th St at Ringold St,66.7,47.3,22330
+SF-M30-4,4th St at Gene Friend Way,74.2,28.4,22314
+SF-K29-1,Berry St at 4th St,74.8,26.8,22307
+SF-J23-2,S Van Ness Ave at Market St,66.5,41.8,21687
+SF-K30-3,4th St at Long Bridge St,63.8,48.2,21655
+SF-GGP-01,Pompei Circle at JFK Dr,42.8,99.4,21507
+SF-I24,San Francisco Public Library,62.4,48.1,21276
+SF-F29,Howard St at Beale St,74.5,17.0,21208
+SF-K21,Koshland Park,56.1,62.7,21170
+SF-C25,Powell St at Columbus Ave,56.1,59.7,20843
+SF-J22-2,Grove St at Gough St,59.9,47.8,20599
+SF-A20,Buchanan St at North Point St,51.6,67.3,20476
+SF-F23-2,Polk St at Bush St,58.3,50.5,20460
+SF-H29,2nd St at Folsom St,69.9,21.2,20448
+SF-N28,Jackson Playground,58.4,49.3,20376
+SF-O21,Mission Dolores Park,48.9,69.1,19964
+SF-N27,Rhode Island St at 17th St,60.2,40.5,19939
+SF-G29-2,1st St at Folsom St,59.4,40.1,19675
+SF-I21,Fulton St at Laguna St,53.0,55.5,19617
+SF-F26,Union Square,57.4,43.8,19545
+SF-K15-2,Fell St at Clayton St,47.9,67.6,19529
+SF-D29,Pier 1/2 at The Embarcadero,55.7,47.5,19476
+SF-K18,Broderick St at Oak St,51.6,55.8,19280
+SF-I25,Civic Center BART,55.3,46.3,19246
+SF-J22-1,Octavia Blvd at Page St,54.9,47.2,19246
+SF-B28-2,Battery St at Filbert St,62.7,24.7,18942
+SF-G20,Post St at Webster St,47.6,62.4,18918
+SF-F28-1,Mechanics Monument Plaza,65.9,15.3,18792
+SF-F27,Post St at Kearny St,63.0,22.2,18760
+SF-L20,Church St at Duboce Ave,51.0,51.0,18603
+SF-Q22-2,Valencia St at 24th St,49.2,52.8,18331
+SF-A27,The Embarcadero at Sansome St,55.0,35.4,18048
+SF-K17,Lyon St at Fell St,45.7,58.9,18048
+SF-O30,Esprit Park,54.7,36.0,18025
+SF-M30-2,Terry Francois Blvd at Warriors Way,56.0,32.4,17988
+SF-F30-1,The Embarcadero at Steuart St,61.2,18.5,17911
+SF-L26,Division St at Potrero Ave,54.9,34.0,17866
+SF-J30,3rd St at King St,56.0,30.8,17809
+SF-N20-1,16th St at Prosper St,49.2,46.2,17641
+SF-C22,Green St at Van Ness Ave,47.5,50.4,17629
+SF-M30,4th St at 16th St,57.6,22.0,17330
+SF-J17,McAllister St at Baker St,45.5,51.3,17198
+SF-O25-1,19th St at Florida St,51.7,34.5,17076
+SF-J19,Alamo Square,44.8,51.6,17062
+SF-J25,Howard St at 8th St,49.5,38.4,16926
+SF-GGP-05,JFK Dr at Great Highway,32.7,80.3,16891
+SF-F23-3,Larkin St at California St,45.4,47.4,16774
+SF-N24-2,Harrison St at 17th St,51.6,31.7,16752
+SF-M22-2,15th St at Valencia St,44.4,49.6,16752
+SF-P22,21st St at Valencia St,45.5,46.0,16662
+SF-Q23-3,24th St BART,49.3,36.1,16615
+SF-O23,19th St at Mission St,46.1,43.7,16577
+SF-F30-3,Folsom St at Main St,51.7,29.4,16546
+SF-A25,North Point St at Powell St,44.6,46.3,16464
+SF-Q22-1,22nd St at Valencia St,43.9,47.9,16444
+SF-E29-3,Embarcadero BART,57.5,13.5,16406
+SF-C26-1,Broadway at Kearny St,44.3,45.3,16261
+SF-L22,Valencia St at Clinton Park,44.9,42.5,16144
+SF-C20-2,Webster St at Union St,43.4,45.7,16083
+SF-F28-2,Montgomery St BART,55.8,14.2,16052
+SF-K26,8th St at Brannan St,49.2,30.3,15998
+SF-E28,Clay St at Battery St,55.2,14.6,15919
+SF-J29-4,San Francisco Caltrain Station - 4th St,50.3,26.5,15895
+SF-A25-2,Mason St at Bay St,43.4,39.7,15464
+SF-G19,Raymond Kimbell Playground,42.4,42.2,15447
+SF-K22-1,Market St at Franklin St,44.0,36.4,15270
+SF-G29-3,Tehama St at 1st St,52.3,15.0,15200
+SF-F23,Polk St at Post St,43.7,36.2,15184
+SF-K27-2,Brannan St at 7th St,44.9,33.0,15163
+SF-L30-1,4th St at Mission Bay Blvd S,47.9,24.6,15051
+SF-M15,Carl St at Cole St,38.2,48.1,14972
+SF-N29,Mississippi St at 17th St,47.0,25.7,14936
+SF-D28,Davis St at Jackson St,46.4,27.0,14922
+SF-J26,Victoria Manalo Draves Park,43.3,30.2,14444
+SF-N30,Hospital St at Mariposa St,46.6,21.6,14401
+SF-O24,Folsom St at 19th St,43.2,29.5,14338
+SF-B22,Chestnut St at Van Ness Ave,40.1,36.8,14278
+SF-O19,18th St at Noe St,37.7,42.6,14254
+SF-P24,Harrison St at 20th St,42.1,30.7,14189
+SF-K17-2,Haight St at Lyon St,38.0,41.1,14185
+SF-R24,Garfield Square,39.8,35.5,14084
+SF-O25-2,20th St at Bryant St,40.4,32.4,13912
+SF-F26-2,Grant Ave at Sutter St,43.6,23.7,13837
+SF-C18,Divisadero St at Lombard St,35.5,43.0,13727
+SF-M13,Frederick St at Arguello Blvd,38.9,33.6,13639
+SF-N21,17th St at Dolores St,36.0,40.4,13605
+SF-D27,Washington St at Kearny St,39.9,30.0,13538
+SF-M21,Dolores St at 15th St,36.3,38.8,13519
+SF-B19,Bay St at Fillmore St,36.6,38.1,13498
+SF-K15-,Fell St at Stanyan St,31.2,50.7,13411
+SF-I28,4th St at Harrison St,39.7,29.3,13398
+SF-L19,Duboce Park,37.9,33.5,13363
+SF-G28-1,Howard St at 2nd St,45.4,13.8,13287
+SF-J28-2,Brannan St at 4th St,43.4,18.3,13218
+SF-F30-2,Spear St at Folsom St,44.9,14.3,13207
+SF-Q30,23rd St at Tennessee St,40.0,26.7,13206
+SF-E20,Webster St at Clay St,38.6,29.8,13159
+SF-L25,11th St at Bryant St,36.1,35.3,13101
+SF-A11,West Crissy Field,29.7,50.5,13018
+SF-I29-2,South Park St at 3rd St,42.4,18.2,12964
+SF-N25,Franklin Square,38.7,27.1,12902
+SF-L27,Townsend St at 7th St,44.1,11.9,12756
+SF-G30-1,Beale St at Harrison St,41.0,19.2,12703
+SF-I23-1,Golden Gate Ave at Polk St,39.2,23.2,12635
+SF-N22-1B,16th St Mission BART North,37.3,27.2,12559
+SF-I23-2,San Francisco City Hall,37.0,27.8,12532
+SF-I30-3,South Park St at 2nd St,42.5,13.2,12471
+SF-A26,North Point St at Grant Ave,35.5,30.1,12402
+SF-E27,Commercial St at Montgomery St,41.6,14.8,12394
+SF-C21,Allyne Park,34.2,32.6,12317
+SF-N23,In Chan Kaajal Park,36.5,26.3,12279
+SF-J20,Webster St at Grove St,34.6,30.5,12203
+SF-J16,Grove St at Masonic Ave,31.9,35.5,12013
+SF-K22-2,McCoppin St at Valencia St,33.6,30.6,11946
+SF-G25,Jones St at Post St,32.1,33.4,11853
+SF-D24,Leavenworth St at Broadway,32.0,33.5,11822
+SF-L29,Mission Bay Kids Park,35.0,23.6,11577
+SF-G24,Hyde St at Post St,32.2,30.1,11542
+SF-F19,Steiner St at California St,30.1,34.9,11498
+SF-B25,Lombard St at Columbus Ave,31.7,29.5,11347
+OK-F4,MacArthur BART,34.7,21.6,11298
+SF-H27-1,Yerba Buena Center for the Arts,32.8,25.6,11228
+SF-O18,Eureka Valley Recreation Center,30.1,30.4,11012
+SF-H30-2,Delancey St at Brannan St,31.9,25.6,10979
+BK-E9-1,Bancroft Way at Telegraph Ave,33.6,21.1,10972
+SF-I19,Scott St at Golden Gate Ave,30.0,29.8,10923
+SF-L31-1,Terry Francois Blvd at Mission Bay Blvd N,33.9,18.5,10760
+SF-Q24,Parque Ninos Unidos,29.4,29.6,10752
+SF-C20,Greenwich St at Webster St,28.4,31.9,10731
+SF-ZZ11,Lincoln Blvd at Hoffman St,22.0,47.4,10659
+SF-E22,Washington St at Van Ness Ave,29.9,26.9,10596
+BK-D10,Bancroft Way at College Ave,33.6,16.4,10464
+SF-P21,20th St at Dolores St,27.7,31.0,10442
+SF-A19,Fillmore St at Jefferson St,26.4,33.6,10397
+BK-D7-1,Downtown Berkeley BART,30.1,23.7,10315
+SF-B21,Greenwich St at Franklin St,28.3,27.4,10236
+SF-K23,Otis St at Brady St,30.0,23.0,10226
+SF-M11,10th Ave at Irving St,24.8,35.8,10186
+SF I29-1,Bryant St at 2nd St,35.1,9.0,10090
+SF-I30-2,Brannan St at Colin P Kelly Jr St,31.8,17.0,10058
+SF-G12,7th Ave at Clement St,24.0,36.4,10047
+SF-K24,11th St at Natoma St,30.5,20.0,10042
+SF-E28-2,Front St at California St,35.9,5.9,9979
+SF-C16-2,Lyon St at Lombard St,26.6,29.3,9976
+SF-A15,Mason St at Halleck St,19.5,46.2,9906
+SF-G13,Arguello Blvd at Geary Blvd,22.5,38.4,9852
+SF-B14,Lincoln Blvd at Graham St,22.7,37.6,9825
+SF-M1,La Playa St at Lincoln Way,18.2,48.7,9818
+SF-S22-1,Valencia St at Duncan St,27.1,26.2,9808
+SF-GGP-02,MLK Dr at 7th Ave,20.8,41.8,9777
+SF-J12,7th Ave at Cabrillo St,23.5,34.9,9767
+SF-G26,Cyril Magnin St at Ellis St,26.7,26.5,9734
+SF-E29-4,Drumm St at Market St,30.9,15.4,9650
+SF-T22,29th St at Tiffany Ave,28.1,21.7,9593
+SF-M22-1,14th St at Mission St,26.5,25.0,9512
+SF-K28,Townsend St at 5th St,32.9,8.6,9488
+SF-S24,Precita Park,26.3,24.7,9440
+SF-I22,Golden Gate Ave at Franklin St,28.3,19.6,9439
+SJ-M10-2,San Fernando St at 4th St,28.5,19.2,9423
+SF-M26-2,Alameda St at Henry Adams St,29.5,16.3,9397
+SF-G18,Post St at Divisadero St,29.8,14.4,9279
+SF-K24-3,Howard St at Grace St,28.0,18.3,9211
+SF-N20-2,Sanchez St at 17th St,25.9,22.8,9127
+SF-N26,Potrero Ave at Mariposa St,26.8,20.4,9113
+SF-H28-2,Mabini St at Folsom St,27.9,16.7,9014
+SF-B20,Buchanan St at Lombard St,24.6,22.9,8801
+SF-E21,Lafayette Park,24.4,23.2,8787
+SF-D27-2,Montgomery St at Pacific Ave,27.6,14.4,8713
+SF-F17-1,Clay St at Lyon St,23.8,23.6,8668
+SF-P26,22nd St at Potrero Ave,28.4,11.9,8662
+SF-Q21-2,24th St at Chattanooga St,24.8,20.6,8629
+SF-L28,Berry St at King St,23.4,22.1,8409
+SF-H16,O'Farrell St at Masonic Ave,22.0,25.5,8403
+SF-R19,Castro St at Jersey St,23.2,22.4,8392
+SF-GGP-04,36th Ave at Spreckels Lake Dr,15.2,42.2,8356
+OK-N1,West Oakland BART,25.9,12.7,8078
+SF-F27-2,Kearny St at Bush St,27.5,8.5,8064
+SF-Q21-1,22nd St at Dolores St,23.5,18.6,8062
+SF-C28-2,Broadway at Battery St,27.1,9.1,8021
+SJ-M11-2,San Fernando St at 7th St,27.7,7.2,7977
+SF-G30-2,The Embarcadero at Bryant St,23.8,16.8,7968
+SF-Q26,23rd St at San Bruno Ave,24.1,15.6,7925
+SF-J10,Funston Ave at Fulton St,17.0,33.2,7897
+SF-G23,Myrtle St at Polk St,21.6,21.5,7863
+SJ-M7-1,San Jose Diridon Station,25.3,11.6,7818
+OK-K5-2,19th Street BART,24.1,14.5,7787
+SF-K27-3,Brannan St at Harriet St,24.7,12.5,7751
+SF-I26,5th St at Howard St,23.3,15.6,7702
+SF-G28-2,Natoma St at New Montgomery St,25.5,8.2,7503
+SF-B28,Cruise Terminal at Pier 27,21.4,18.2,7468
+BK-C9,Euclid Ave at Hearst Ave,23.5,12.9,7464
+SF-M28,Hubbell St at 16th St,21.8,16.3,7378
+SF-R20,Sanchez St at 24th St,20.9,18.4,7377
+SF-J15,Parker Ave at McAllister St,20.9,17.9,7323
+SF-J29-3,San Francisco Caltrain Station - King St,24.2,9.4,7283
+SF-J13,McAllister St at Arguello Blvd,18.1,24.3,7255
+SF-M24,Folsom St at 15th St,21.9,14.2,7190
+SF-K30-2,China Basin St at 3rd St,22.6,12.1,7163
+SF-K31,China Basin Park,21.0,16.1,7163
+SF-C28-1,The Embarcadero at Vallejo St,22.8,10.5,7050
+SF-F15,Spruce St at California St,19.2,17.8,6873
+SF-H20,Webster St at O'Farrell St,17.4,22.2,6849
+SF-L24-2,Harrison St at 14th St,17.6,20.4,6717
+SF-I20,Turk St at Fillmore St,18.6,17.9,6712
+SF-H26-2,Mint St at Mission St,19.7,14.8,6684
+SF-H30,The Embarcadero at Pier 38,17.9,19.0,6649
+SJ-N11,San Salvador St at 9th St,18.7,16.8,6615
+SF-D27-3,Jackson St at Sansome St,22.0,7.9,6549
+SF-A24-2,Francisco St at Columbus Ave,17.5,18.2,6472
+OK-B4,Rockridge BART,19.3,13.5,6449
+SF-F25,Sutter St at Taylor St,18.6,15.3,6448
+SF-M8,Irving St at 21st Ave,15.0,24.2,6446
+SF-E28-4,Pine St at Market St,22.4,5.7,6431
+SF-M27,8th St at Hooper St,21.2,8.7,6427
+SF-M12,7th Ave at Irving St,16.0,21.4,6390
+SF-N1,Great Highway at Judah St,12.3,29.8,6319
+SJ-L7-2,The Alameda at Bush St,17.4,17.0,6316
+SF-T20,29th St at Church St,18.7,13.8,6311
+SF-E18,Divisadero St at Clay St,16.8,16.7,6125
+SF-G8-1,Anza St at 19th Ave,14.8,21.6,6093
+OK-M7,Lake Merritt BART,18.2,11.2,5931
+SF-F18,Scott St at California St,16.1,16.3,5911
+OK-I6,Bay Pl at Vernon St,16.6,14.9,5879
+SF-B24-1,Taylor St at Columbus Ave,16.2,15.9,5875
+SF-J3,38th Ave at Balboa St,13.3,22.6,5815
+SF-L27-2,7th St at King St,18.5,8.9,5767
+SF-M3,41st Ave at Irving St,11.7,26.0,5756
+SF-F24,Bush St at Leavenworth St,16.0,15.1,5735
+SJ-L9,San Pedro Square,16.2,14.2,5716
+SF-G17,Post St at Baker St,15.5,15.8,5682
+SF-G5,Clement St at 32nd Ave,12.7,22.5,5655
+SF-G11,9th Ave at Geary Blvd,14.2,18.2,5584
+SF-I26-2,Howard St at 6th St,16.1,11.8,5435
+SF-R26,Potrero del Sol Park,15.4,13.4,5411
+OK-I9,El Embarcadero at Grand Ave,13.8,16.5,5316
+SF-L24,Folsom St at 13th St,13.9,16.1,5297
+SF-M30-3,Illinois St at 16th St,16.5,9.5,5290
+SF-F16,Laurel St at California St,15.4,12.2,5285
+SF-J27,Bryant St at 6th St,17.2,7.4,5259
+BK-H6,Ashby BART,16.4,9.3,5240
+SF-H12,5th Ave at Anza St,13.8,15.6,5226
+SF-G7,23rd Ave at Clement St,12.3,19.3,5210
+BK-F8,Parker St at Fulton St,15.6,10.9,5210
+SJ-N10-1,4th St at San Carlos St,15.1,11.7,5144
+OK-I8,Grand Ave at Perkins St,14.0,13.8,5079
+SF-V23,Cortland Ave at Wool St,13.6,14.5,5056
+OK-L5,Frank H Ogawa Plaza,15.0,9.5,4907
+SF-H0,Great Highway at Balboa St,9.2,24.1,4894
+SF-M9-2,Irving St at 17th Ave,11.2,18.8,4876
+OK-J6-1,Grand Ave at Webster St,14.5,10.5,4876
+SJ-M10-4,Fountain Alley at S 2nd St,13.1,13.7,4859
+SF-N22-1A,16th St Mission BART South,14.9,8.1,4733
+SF-M26,15th St at Potrero Ave,14.4,9.0,4703
+OK-F6,40th St at Piedmont Ave,13.4,11.3,4667
+SF-G6-1,26th Ave at Clement St,11.4,15.5,4591
+SF-M10,Funston Ave at Irving St,11.2,15.9,4577
+SF-S1,Great Highway at Taraval St,8.7,22.0,4570
+SF-P24-2,Folsom St at 21st St,12.3,12.4,4505
+SJ-M10-1,San Jose City Hall,13.0,10.8,4500
+SF-J5,34th Ave at Balboa St,10.2,17.6,4483
+SF-J1,48th Ave at Cabrillo St,9.8,18.6,4480
+SF-D25,Taylor St at Pacific Ave,12.1,12.6,4477
+SF-H25,Father Alfred E Boeddeker Park,12.3,11.5,4423
+SF-K28-3,Townsend St at 6th St,13.4,8.4,4364
+SJ-M6,Cahill Park,12.8,9.8,4351
+SJ-K5,Julian St at The Alameda,11.9,11.2,4267
+SF-E29-5,Main St at Market St,14.2,4.8,4215
+SF-G10-1,Funston Ave at Clement St,10.6,13.6,4186
+BK-C6,MLK Jr Way at University Ave,11.4,11.2,4142
+BK-G7,Oregon St at Adeline St,11.2,11.5,4113
+OK-H5,Broadway at 30th St,12.1,9.0,4104
+BK-F10,Derby St at College Ave,11.7,9.9,4096
+SF-M7,25th Ave at Irving St,9.5,15.2,4056
+SF-F9,18th Ave at California St,10.0,13.5,4019
+SF-S21,Cesar Chavez St at Dolores St,11.4,9.9,4006
+SF-H19,Ellis St at Pierce St,11.5,9.5,3989
+SF-C25-2,Powell St at Green St,10.4,12.2,3987
+OK-D4,Telegraph Ave at 49th St,10.9,11.0,3979
+SF-B15,Torney Ave at Lincoln Blvd,11.1,10.1,3956
+SJ-K6,N Morrison Ave at W Julian St,11.7,8.6,3954
+BK-E9-2,Haste St at Telegraph Ave,11.3,9.6,3953
+BK-A7,Vine St at Shattuck Ave,10.8,10.5,3904
+SF-H15,Anza St at Collins St,10.7,10.7,3897
+BK-D7-2,Berkeley Civic Center,11.3,8.6,3850
+BK-E8,Fulton St at Bancroft Way,11.2,8.8,3844
+SF-H18,O'Farrell St at Divisadero St,11.0,9.0,3819
+SF-H13,Arguello Blvd at Edward St,9.1,13.3,3769
+OK-K9,2nd Ave at E 18th St,10.3,10.0,3737
+SJ-O10,Pierce Ave at Market St,10.4,8.1,3568
+BK-F9,Telegraph Ave at Carleton St,9.9,8.9,3518
+SF-G10-2,14th Ave at Geary Blvd,9.0,10.9,3481
+BK-H9,Telegraph Ave at Ashby Ave,10.6,6.9,3471
+BK-E7,Channing Way at Shattuck Ave,9.5,9.4,3470
+SF-W19,Glen Park BART,10.6,6.5,3455
+SF-I16,Masonic Ave at Turk St,9.7,8.8,3435
+OK-K5-1,Telegraph Ave at 19th St,9.8,8.1,3411
+SF-G9,17th Ave at Geary Blvd,8.3,11.7,3379
+BK-C8,University Ave at Oxford St,10.1,6.8,3350
+OK-H9-1,Grand Ave at Santa Clara Ave,8.9,9.4,3305
+SF-F28-5,Sutter St at Montgomery St,10.9,4.0,3254
+SJ-M10-3,Paseo De San Antonio at 2nd St,9.0,8.4,3216
+SJ-M11-1,Santa Clara St at 7th St,8.7,8.8,3187
+SF-J14,Turk Blvd at Stanyan St,9.3,7.3,3175
+SF-S22-2,Guerrero Park,9.4,6.9,3160
+SF-Outside Lands-Temp,Outside Lands,4.0,20.1,3138
+SF-H17,Saint Joseph's Ave at Geary Blvd,9.4,6.5,3135
+OK-L7-2,Lakeside Dr at 14th St,8.5,8.8,3126
+OK-N6,Webster St at 2nd St,9.1,7.3,3124
+SF-O12,7th Ave at Lawton St,8.1,9.1,3058
+SF-T21,30th St at San Jose Ave,8.8,6.9,3020
+SJ-K9,Ryland Park,8.8,6.6,2984
+BK-C5,North Berkeley BART,8.4,7.5,2961
+SF-C14,MacArthur Ave at Fernandez St,8.1,7.9,2926
+BK-F7,Milvia St at Derby St,8.1,7.6,2913
+OK-K7,Madison St at 17th St,7.8,8.4,2909
+BK-C7,Shattuck Ave at Hearst Ave,8.4,6.6,2887
+BK-D1,Addison St at Fourth St,7.2,9.7,2879
+SJ-P10,5th St at Virginia St,8.8,5.4,2861
+OK-J5,23rd St at Telegraph Ave,7.3,8.7,2821
+SF-D8,Lincoln Blvd at Bowley St,5.7,12.5,2788
+SJ-M11-3,9th St at San Fernando St,8.9,4.0,2750
+SF-H14,Stanyan St at Geary Blvd,7.7,6.7,2708
+SF-P1,Great Highway at Noriega St,5.3,12.1,2641
+SF-M4,36th Ave at Irving St,5.8,10.5,2613
+BK-E10,Haste St at College Ave,7.0,7.1,2577
+OK-M6,Franklin St at 9th St,7.5,5.5,2525
+EM-C1,65th St at Hollis St,7.9,4.4,2519
+OK-E4,Shattuck Ave at Telegraph Ave,6.8,7.2,2510
+BK-H3,Ninth St at Heinz Ave,7.3,5.8,2504
+OK-K10,21st St at 5th Ave,7.7,4.7,2485
+OK-F5,Broadway at 40th St,6.9,6.1,2427
+OK-I5,Telegraph Ave at 27th St,6.6,6.6,2397
+SJ-N5,Sunol St at San Carlos St,7.0,5.5,2394
+SF-A11-2,Crissy Field Overlook,4.9,10.7,2386
+SJ-M8-1,Almaden Blvd at San Fernando St,7.5,3.0,2256
+EM-C1-2,Bay Street Plaza,5.6,7.5,2251
+SJ-K10,2nd St at Julian St,6.2,6.0,2242
+OK-L6,Franklin St at 13th St,6.9,4.2,2237
+BK-B7,Virginia St at Shattuck Ave,6.0,6.3,2222
+SF-P2,45th Ave at Noriega St,5.0,8.6,2203
+OK-K6,Webster St at 19th St,6.2,5.5,2202
+OK-K1,Raimondi Park,6.3,5.2,2186
+SF-S30,Illinois St at Cesar Chavez St,4.9,8.5,2165
+SF-F29-2,Natoma St at 1st St,7.1,2.5,2120
+BK-H10,Russell St at College Ave,6.2,4.7,2116
+OK-M5,Washington St at 8th St,6.2,4.8,2115
+OK-N5,Jack London Square,6.1,4.9,2106
+SJ-M9-2,Santa Clara St at Almaden Blvd,5.4,6.1,2044
+SF-W8,Eucalyptus Dr at 20th Ave,5.6,5.6,2037
+SF-U21,Randall St at Chenery St,5.7,5.0,2020
+OK-J6-2,Snow Park,5.5,4.9,1952
+SF-S29,Indiana St at Cesar Chavez St,6.2,3.2,1947
+SJ-N10-3,5th St at San Salvador St,5.6,4.3,1910
+OK-K1-2,Mandela Parkway at W Grand Ave,5.7,4.0,1892
+BK-I5,Woolsey St at Sacramento St,5.4,4.6,1882
+BK-G10,Russell St at College Ave,5.3,4.8,1868
+BK-I6,Harmon St at Adeline St,5.4,4.3,1856
+SJ-N9,San Carlos St at Market St,5.0,5.1,1846
+OK-H9-2,Lakeshore Ave at Trestle Glen Rd,5.2,4.6,1830
+BK-G8,Ellsworth St at Russell St,5.6,3.5,1816
+SF-O2,43rd Ave at Lawton St,4.0,7.3,1808
+BK-D5,Addison St at California St,5.2,4.2,1797
+SF-P8,21st Ave at Noriega St,4.6,5.8,1796
+OK-A4,62nd St at Claremont Ave,5.0,4.6,1784
+EM-D2,Horton St at 40th St,4.8,4.9,1764
+OK-D5,Broadway at Coronado Ave,4.9,4.3,1737
+OK-C4,Miles Ave at Cavour St,4.8,4.4,1718
+SJ-J8,Autumn Parkway at Coleman Ave,4.0,5.9,1662
+SF-P6,30th Ave at Noriega St,4.5,4.6,1651
+BK-D4,West St at University Ave,4.2,5.1,1631
+OK-L6-2,13th St at Webster St,4.3,4.9,1629
+BK-H8,Fulton St at Ashby Ave,4.7,3.7,1627
+OK-L4,Jefferson St at 14th St,4.5,4.4,1621
+BK-A3,College Ave at Alcatraz Ave,4.8,3.6,1613
+BK-C1,Fifth St at Delaware St,4.3,4.8,1611
+OK-D2,Genoa St at 55th St,4.8,3.5,1608
+OK-C2,Dover St at 57th St,4.9,3.0,1594
+OK-L8,10th St at Fallon St,4.7,3.1,1546
+EM-D4,Adeline St at 40th St,4.4,3.9,1543
+OK-B1,Alcatraz Ave at Shattuck Ave,4.5,3.5,1537
+SF-U7,Vicente St at 26th Ave,3.3,6.5,1528
+SF-N4,36th Ave at Kirkham St,3.8,5.0,1500
+EM-A1,59th St at Horton St,5.0,1.9,1495
+OK-H2,32nd St at Adeline St,4.6,2.8,1489
+OK-G5,Mosswood Park,4.1,3.9,1470
+SJ-O12,William St at 10th St,3.7,4.6,1444
+SF-R1,Quintara St at Great Highway,2.7,7.1,1442
+SF-T27,Toland St at Jerrold Ave,4.6,2.1,1421
+EM-A2,Doyle St at 59th St,4.1,3.3,1419
+SF-F28-4,Minna St at 1st St,4.9,1.4,1415
+OK-E5,45th St at Manila,4.3,2.9,1412
+OK-L9,4th Ave at E 12th St,4.0,3.6,1408
+OK-A2,Telegraph Ave at Alcatraz Ave,4.0,3.5,1403
+OK-G2,Market St at 40th St,4.1,3.1,1398
+OK-B2,Bushrod Park,4.1,3.1,1395
+SJ-N12-1,San Carlos St at 11th St,3.8,3.8,1386
+BK-E3,Channing Way at San Pablo Ave,3.9,3.5,1386
+EM-B1,Emeryville Public Market,3.8,3.7,1364
+SF-Z13,Brighton Ave at Ocean Ave,3.7,3.6,1355
+BK-I10,College Ave at Alcatraz Ave,3.8,3.3,1343
+BK-F2,Ninth St at Parker St,3.8,3.2,1331
+BK-D2,10th St at University Ave,3.5,3.7,1295
+EM-C3,47th St at San Pablo Ave,3.6,3.3,1274
+SF-W19-2,Arlington St at Roanoke St,3.5,3.3,1270
+SF-X16,Detroit St at Hearst Ave,4.0,2.0,1243
+OK-B5,College Ave at Taft Ave,3.3,3.5,1236
+OK-N10,Brooklyn Basin,3.1,4.1,1234
+OK-B3,Telegraph Ave at 58th St,3.6,2.8,1230
+OK-L1,14th St at Mandela Pkwy,3.5,2.8,1208
+SF-U30,Evans Ave at Newhall St,3.8,2.0,1197
+SF-W14,Gennessee St at Monterey Blvd,3.5,2.7,1193
+SJ-M4,San Carlos St at Meridian Ave,3.0,3.9,1186
+OK-C3,55th St at Telegraph Ave,3.4,2.8,1176
+EM-D3,Emeryville Town Hall,3.6,2.0,1157
+SF-Z7,Holloway Ave at Arellano Ave,3.3,2.9,1155
+OK-I6-2,26th St at Broadway,3.0,3.5,1154
+OK-K2,DeFremery Park,3.4,2.7,1152
+SF-Z6,Font Blvd at Arballo Dr,3.1,3.2,1147
+SF-Y8,SFSU Park East,3.2,3.0,1138
+OK-K3,Marston Campbell Park,3.3,2.7,1133
+SF-Q4,37th Ave at Ortega St,2.5,4.5,1124
+OK-F3,West St at 40th St,3.2,2.7,1123
+OK-F2-2,Market St at 45th St,3.4,2.1,1097
+SF-AA15,Balboa Park BART,3.5,1.8,1090
+OK-G4,MacArthur Blvd at Telegraph Ave,3.0,2.6,1061
+OK-G6,Piedmont Ave at MacArthur Blvd,3.1,2.3,1060
+SF-R7,24th Ave at Quintara St,2.8,3.1,1053
+EM-B2,Stanford Ave at Hollis St,3.0,2.5,1049
+SF-Y14,Frida Kahlo Way at Cloud Cir,3.5,1.0,1035
+SF-Q3,Ortega St at 40th Ave,2.6,3.4,1030
+SJ-M14,23rd St at Santa Clara St,2.7,2.9,997
+SJ-L11,Saint James St at 9th St,3.1,1.7,991
+SJ-Q11,Bestor Art Park,2.6,3.0,990
+BK-G4,San Pablo Park,2.8,2.4,985
+SF-AA18,Russia Ave at Madrid St,2.8,2.5,985
+SJ-L10,Saint James Park,2.6,2.8,979
+SJ-I11,Taylor St at 9th St,3.0,1.7,974
+OK-J9,Brooklyn Ave at Lakeshore Ave,2.7,2.6,969
+OK-C5,College Ave at Bryant Ave,2.7,2.4,965
+SJ-L9-2,Devine St at San Pedro St,2.6,2.7,950
+SF-X14,Judson Ave at Gennessee St,3.0,1.4,945
+OK-H3-2,West St at Brockhurst St,2.6,2.5,942
+SJ-H12,10th St at Mission St,2.7,2.2,941
+OK-G3,37th St at West St,2.8,1.9,934
+SJ-I5,Asbury St at The Alameda,2.4,2.9,921
+SJ-J10,Jackson St at 5th St,2.2,3.3,910
+SF-R4,37th Ave at Rivera St,2.2,3.2,907
+OK-H4-3,34th St at Telegraph Ave,2.8,1.7,903
+OK-N7,Second St at Oak St,2.4,2.4,870
+OK-J3,24th St at Market St,2.7,1.7,868
+SJ-J11,7th St at Empire St,2.6,1.9,867
+EM-B0-2,2100 Powell St,2.3,2.4,863
+SF-P7,26th Ave at Noriega St,2.2,2.9,861
+SF-Z17,Alemany Blvd at Ocean Ave,2.3,2.4,858
+OK-M3,10th St at Chestnut St,2.5,1.7,838
+OK-L7,Jackson St at 11th St,2.3,2.2,825
+SJ-L7-1,SAP Center,2.0,3.0,821
+SJ-N14,22nd St at William St,2.4,1.7,793
+SJ-K11,Julian St at 6th St,2.2,2.1,793
+OK-D3-1,Shattuck Ave at 55th St,2.3,1.8,787
+SF-V31,Evans Ave at Mendell St,2.5,1.3,785
+SF-Z28,Carroll Ave at 3rd St,2.5,1.3,772
+SJ-O9,Almaden Blvd at Balbach St,2.1,2.1,760
+SF-T11,West Portal MUNI,2.1,2.1,758
+SF-V28,Oakdale Ave at Phelps St,2.2,1.8,756
+SF-V30-1,Hudson Ave at 3rd St,2.1,2.0,745
+SJ-C9,Metro Dr at Technology Dr,2.4,1.2,741
+SF-Y11,Lakewood Ave at Ocean Ave,1.9,2.0,714
+EM-C2,53rd St at Hollis St,2.2,1.4,710
+SF-V32,Heron's Head Park,1.6,2.8,701
+OK-L0,Willow Park,2.0,1.7,692
+SF-X19,Alemany Blvd at Silver Ave,1.8,2.0,674
+OK-K4,San Pablo Ave at MLK Jr Way,1.9,1.6,671
+SJ-M8-2,Delmas Ave and San Fernando St,1.7,1.8,640
+SF-W9,Junipero Serra Blvd at Ocean Ave,1.7,1.9,632
+OK-D3-2,52nd St at MLK Jr Way,1.9,1.3,618
+SF-AA15-2,Balboa Park BART 2,1.9,1.2,607
+SJ-N5-2,Auzerais Ave at Lincoln Ave,1.6,1.7,606
+SJ-I10,5th St at Taylor St,1.6,1.8,603
+SF-Y25,Goettingen St at Bacon St,1.9,1.0,587
+SF-Y18,Alemany Blvd at Francis St,1.7,1.3,579
+SF-AA8,Cambon Dr at Castelo Ave,1.7,1.4,578
+SJ-H16,Berryessa BART,1.5,1.7,577
+OK-L3,14th St at Filbert St,1.6,1.3,563
+SF-CC18,Crocker-Amazon Playground,1.4,1.8,560
+OK-I3,27th St at San Pablo Ave,1.6,1.4,556
+SJ-H10,Mission St at 1st St,1.7,0.9,552
+SF-Y27,Williams Ave at Apollo St,1.6,1.2,550
+SJ-L13,17th St at Santa Clara St,1.4,1.7,549
+LW1.6,Hellman Hollow,0.8,3.2,547
+SJ-N7,Columbia Ave at Bird Ave,1.3,1.9,544
+SF-DD10,Daly City BART,1.4,1.6,541
+OK-N17,Fruitvale BART,1.5,1.4,537
+OK-E3,45th St at MLK Jr Way,1.6,1.2,531
+SJ-N14-2,19th St at William St,1.5,1.2,517
+SJ-J9,Empire St at 1st St,1.5,1.2,516
+SJ-R11,South San Jose State,1.2,1.8,515
+SJ-J12-1,10th St at Empire St,1.7,0.6,511
+SF-V29,Jerrold Ave at 3rd St,1.4,1.3,493
+L1.4,Stowe Lake,0.9,2.6,490
+SJ-N10-2,1st St at San Carlos St,1.4,1.1,490
+SJ-H11,Raymond Bernal Jr Memorial Park,1.1,1.8,482
+SF-X30,Lane St at Revere Ave,1.4,0.9,467
+OK-AA3,65th St at San Pablo Ave,1.3,1.2,465
+SF-G20-1,Post St at Laguna St,1.0,1.9,461
+SJ-Q4,Willow St at Blewett Ave,1.1,1.6,458
+SF-W29,McKinnon Ave at 3rd St,1.3,1.2,453
+SJ-F10,Kerley Dr at Rosemary St,1.3,1.0,450
+SJ-N6,Auzerais Ave at Los Gatos Creek Trail,1.2,1.2,447
+SF-Y29,Williams Ave at 3rd St,1.3,1.0,435
+OK-L11,10th Ave at E 15th St,1.4,0.8,433
+SF-Y30,Jennings St at Revere Ave,1.3,0.9,427
+SF-BB17,London St at Geneva Ave,1.1,1.2,425
+SJ-E10,Gish Rd at 1st St,1.1,1.2,420
+OK-I4,MLK Jr Way at 27th St,1.1,1.0,405
+SJ-J6,Stockton Ave at Lenzen Ave,1.2,0.9,398
+SF-Y16,Balboa Park,1.2,0.8,391
+SF-Z11,Ashton Ave at Holloway Ave,1.0,1.2,390
+OK-L10,6th Ave at E 12th St,1.1,1.0,386
+GGP-L1.5,Lloyd Lake,0.6,2.2,378
+OK-D0,Lowell St at Stanford Ave,0.9,1.2,366
+SJ-G15,Mercado Way at Sierra Rd,0.9,1.3,363
+OK-J4,Isabella St at San Pablo Ave,1.0,1.1,361
+OK-L14,23rd Ave at Foothill Blvd,0.9,1.0,354
+SJ-L12,N 14th St at E Santa Clara St,0.9,1.0,350
+SJ-I9,George St at 1st St,1.0,0.8,348
+SF-Y7,SFSU Park West,0.9,1.1,339
+SF-X29,Quesada Ave at 3rd St,0.9,0.8,329
+GGP-L1.7,30th Ave,0.6,1.6,318
+SJ-H17,Newbury Park Dr at King Rd,0.8,0.9,308
+SJ-O4,Parkmoor Ave at Race St,0.8,0.9,297
+SJ-J12-2,Backesto Park,0.6,1.3,291
+SJ-M5,Park Ave at Race St,0.7,1.0,290
+OK-L12,San Antonio Park,0.7,0.9,277
+SF-AA28,Egbert Ave at Jennings St,0.8,0.6,263
+SJ-P7,Delmas Ave at Virginia St,0.7,0.7,262
+SJ-D9,Skyport Dr at Technology Dr,0.8,0.4,250
+SF-AA20,Brazil Ave at La Grande Ave,0.7,0.5,249
+SJ-M6-2,Park Ave at Laurel Grove Ln,0.7,0.6,249
+SF-AA9,Byxbee St at Shields St,0.7,0.7,248
+SF-Z16,Delano Ave at Oneida Ave,0.7,0.6,244
+SJ-E9,Sonora Ave at 1st St,0.7,0.7,241
+SJ-Q10,3rd St at Keyes St,0.6,0.8,239
+OK-L8-2,Lakeshore Ave,0.6,0.7,229
+OK-H2-2,Brockhurst St at San Pablo Ave,0.6,0.7,228
+OK-F5-1,Webster St at 40th St,0.6,0.7,224
+L1.1,Bowling Green,0.4,1.1,222
+SF-LW2, Sloat Blvd at The Great Highway to 46th Ave,0.5,1.0,222
+SJ-P9,Oak St at 1st St,0.6,0.6,219
+OK-K11,11th Ave at 19th St,0.6,0.5,216
+OK-L16,Foothill Blvd at Fruitvale Ave,0.5,0.4,180
+SF-LW23,Vincente St at Great Hwy,0.4,0.8,178
+SJ-P8,Locust St at Grant St,0.5,0.4,172
+SF-LW28,Taraval St: 41st St to 40th St,0.3,0.8,170
+L1.11,Chain O' Lakes,0.3,0.8,169
+SF-LW26,Taraval St at 22nd St,0.4,0.7,163
+SF-LW13,Forest Hill Muni Station,0.5,0.4,159
+SJ-Q8,Palm St at Willow St,0.4,0.6,153
+OK-L19,Bond St at High St,0.4,0.4,151
+SF Depot,Minnesota St Depot (Outgoing),0.5,0.2,149
+SF-LW12,Laguna Honda Hospital,0.4,0.4,148
+SJ-H16-2,Berryessa BART,0.4,0.3,148
+OK-M16,Farnam St at Fruitvale Ave,0.4,0.3,146
+SJ-Q5,Bird Ave at Willow St,0.4,0.4,142
+SF-LW210,Ocean Ave West: To Fairfield Way,0.3,0.5,139
+SJ-G10,1st St at Younger Ave,0.3,0.4,133
+SJ-I14,23rd St at Taylor St,0.3,0.4,126
+SJ-Q9,Willow St at Vine St,0.3,0.4,126
+LYFT-SF01,Howard Internal Monolith,0.5,0.0,125
+SJ-P10-2,E Virginia St at S 2nd St,0.4,0.2,124
+SF-LW214,West Portal: 15th to Ulloa East,0.3,0.4,121
+SJ-H9,San Pedro St at Hedding St,0.3,0.4,121
+SF-LW5,Taraval St at 27th Ave to 25th Ave,0.3,0.3,111
+OK-M14,26th Ave at International Blvd,0.3,0.3,109
+EM-D2-2,Huchiun Park,0.3,0.2,105
+EM-AA2,Vallejo St at 66th St,0.3,0.2,103
+DC-01,Westlake Shopping Center,0.3,0.3,101
+SJ-P6,Bird Ave at Coe Ave,0.3,0.3,97
+SF-LW11,Ocean Avenue East: to Plymouth Ave,0.2,0.3,90
+OK-K17,Foothill Blvd at Harrington Ave,0.3,0.1,86
+OK-H15,Fruitvale Ave at MacArthur Blvd,0.2,0.2,77
+DC-08,Templeton Ave at Mission St,0.1,0.3,64
+EM-B0,Powell St at Admiral Dr,0.1,0.2,60
+L1.20,South Lake,0.1,0.2,55
+SF-K29-4,Berry HQ,0.2,0.1,52
+DC-04,Mission St at John Daly Blvd,0.1,0.2,48
+DC-03,Edgeworth Ave at 91st St,0.1,0.2,45
+DC-02,Rio Verde St at Geneva Ave,0.1,0.2,44
+DC-05,Westlake Library,0.1,0.1,41
+OK-K9-2,E 18th St at 4th Ave,0.1,0.1,30
+DC-06,School St at Bruno Ave,0.1,0.1,29
+DC-07,Westlake Ave at Miriam St,0.1,0.1,27
+SF Depot-2 (Minnesota St Outbound),SF Depot-2 (Minnesota St Incoming),0.1,0.0,26
+OK-K14,E 21st St at 23rd Ave,0.1,0.0,17
+OK-H16,MacArthur Blvd at Hopkins Pl,0.0,0.0,15
+LYFT-SF02,Firmware Test Charging Internal Howard ,0.0,0.0,12
+SF-LW215,West Portal: 15th to Ulloa West,0.0,0.0,8
+SF-LW8,Taraval St at 41st Ave to 40th Ave,0.0,0.0,7
+S Outer Mission - Point 1 ,S Outer Mission - Point 1 ,0.0,0.0,6
+W Bayview - Point 1 ,W Bayview - Point 1 ,0.0,0.0,5
+EM-1,Emeryville Depot,0.0,0.0,1
